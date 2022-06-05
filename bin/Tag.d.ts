@@ -1,4 +1,4 @@
-import { Device } from 'smart-hut';
+import { Device } from '@kezziny/smart-hut';
 interface ITags {
     [key: string]: string;
 }

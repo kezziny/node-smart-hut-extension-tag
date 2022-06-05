@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Tag = void 0;
-const reflection_1 = require("reflection");
+const reflection_1 = require("@kezziny/reflection");
 class Tag {
     static Apply(args) {
         return function (device, property) {

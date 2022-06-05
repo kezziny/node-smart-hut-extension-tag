@@ -1,5 +1,5 @@
-import { Reflection } from 'reflection';
-import { Device } from 'smart-hut';
+import { Reflection } from '@kezziny/reflection';
+import { Device } from '@kezziny/smart-hut';
 
 interface ITags {
 	[key: string]: string;
